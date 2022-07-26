@@ -40,11 +40,11 @@ This paper characterizes contributor acknowledgment models in open source by ana
 
 <h3> Process Delta  </h3>
 
-*
+* The project is a replication of the scraping of list of contributors from the GitHub API, running them through a data analysis process and the producing an output. The project can be replicated as it is and therefore does not require any major changes. The code files can be run in sequence along with the data files.
  
 <h3> Output Delta  </h3> 
 
-*
+* The output files are the visualizations as well as some raw data will be generated in the /data/output folder when the input files are run.
 
 
 <h2> Implementation of reproduction </h2>
@@ -71,5 +71,8 @@ This paper characterizes contributor acknowledgment models in open source by ana
 
 <h2> Validation  </h2>
 
+To verify the output, it is best to open the generated files and go through the results in "data/output" folder.
 
 <h2> Data  </h2>
+
+We have used the sample dataset provided by the paper resource on figshare.com as the initial implementation. The relevant data files used can be found in the ./data/sample data folder
