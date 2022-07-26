@@ -9,9 +9,9 @@ This is a reproduction project as part of the MSR course 2022 at UniKo, CS depar
 
 **Members:**
 
-  * Ahmed Fazal (afazal@uni-koblenz.de)
-  * Usama Moin  (tahiriqbal@uni-koblenz.de)
-  * Tahir Iqbal (umoin@uni-koblenz.de)
+  * Ahmed Fazal (220201263 - afazal@uni-koblenz.de)
+  * Usama Moin (221202892 - umoin@uni-koblenz.de)
+  * Tahir Iqbal (220201700 - tahiriqbal@uni-koblenz.de)
 
 
 <h2> Objective of reproduction  </h2>
@@ -40,11 +40,11 @@ This paper characterizes contributor acknowledgment models in open source by ana
 
 <h3> Process Delta  </h3>
 
-* The project is a replication of the scraping of list of contributors from the GitHub API, running them through a data analysis process and the producing an output. The project can be replicated as it is and therefore does not require any major changes. The code files can be run in sequence along with the data files.
+* The process we followed for the project is almost identical to the one the author followed except in some cases we had to change libraries since the previous ones are deprecated or no longer functional. Moreover we did some optimisations as well. For the purpose of replication in some cases we had to use similar data as was used by the author since github rate limits you after a while unless you have an academic or research license.
  
 <h3> Output Delta  </h3> 
 
-* The output files are the visualizations as well as some raw data will be generated in the /data/output folder when the input files are run.
+* The output we get from the executions is similar to the one done by the original author of the paper
 
 
 <h2> Implementation of reproduction </h2>
@@ -57,6 +57,15 @@ This paper characterizes contributor acknowledgment models in open source by ana
     - RAM: 8.00 GB
     - System type: 64-bit operating system, x64-based processor
     - Operating System: Windows 10
+    
+ * Apple:
+ 
+    - Model: MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)
+    - Processor: 2 GHz Quad-Core Intel Core i5
+    - RAM: 16.00 GB
+    - System type: 64-bit operating system, x64-based processor
+    - Operating System: macOS Monterey Version 12.1
+    - Graphics: Intel Iris Plus Graphics 1536 MB
 
 <h3> Software requirements  </h3> 
 
@@ -72,8 +81,8 @@ This paper characterizes contributor acknowledgment models in open source by ana
 
 <h2> Validation  </h2>
 
-To verify the output, it is best to open the generated files and go through the results in "data/output data" folder.
+To verify the output, it is best to open the generated files and go through the results in "data/" folder.
 
 <h2> Data  </h2>
 
-We have used the sample dataset provided by the paper resource on figshare.com as the implementation. The relevant data files used can be found in the ./data/sample data folder
+We have used the sample dataset provided by the paper resource on figshare.com as the implementation. The relevant data files used can be found in the ./data folder
