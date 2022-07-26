@@ -63,6 +63,7 @@ This paper characterizes contributor acknowledgment models in open source by ana
 * Software
    
    - Jupyter Notebook or Spyder IDE
+   - PyGithub
    - python 3.8
    - pandas
    - matplotlib
@@ -71,8 +72,8 @@ This paper characterizes contributor acknowledgment models in open source by ana
 
 <h2> Validation  </h2>
 
-To verify the output, it is best to open the generated files and go through the results in "data/output" folder.
+To verify the output, it is best to open the generated files and go through the results in "data/output data" folder.
 
 <h2> Data  </h2>
 
-We have used the sample dataset provided by the paper resource on figshare.com as the initial implementation. The relevant data files used can be found in the ./data/sample data folder
+We have used the sample dataset provided by the paper resource on figshare.com as the implementation. The relevant data files used can be found in the ./data/sample data folder
