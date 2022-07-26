@@ -9,9 +9,9 @@ This is a reproduction project as part of the MSR course 2022 at UniKo, CS depar
 
 **Members:**
 
-  * Ahmed Fazal (220201263 - afazal@uni-koblenz.de)
-  * Usama Moin (221202892 - umoin@uni-koblenz.de)
-  * Tahir Iqbal (220201700 - tahiriqbal@uni-koblenz.de)
+  * Ahmed Fazal (afazal@uni-koblenz.de)
+  * Usama Moin (umoin@uni-koblenz.de)
+  * Tahir Iqbal (tahiriqbal@uni-koblenz.de)
 
 
 <h2> Objective of reproduction  </h2>
