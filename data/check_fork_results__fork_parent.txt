@@ -1,0 +1,14 @@
+nils-a/Cake.IntelliJ.Recipe	cake-contrib/Cake.IntelliJ.Recipe
+mahcr/nanux	marianocodes/nanux
+Abhijit2505/Grokking-Machine-Learning	edualgo/Grokking-Machine-Learning
+jeremie-gauthier/Red-Tetris	redpelicans/red_tetris_boilerplate
+ptkdev/eslint-plugin-snakecasejs	deecewan/eslint-plugin-snakecase
+Devsoc-BPGC/portfolio-generator-react	flex-luthor/porfolio-gen
+gauzias/slam	brain-slam/slam
+ZBejavu/analytics-challenge-boilerplate	suvelocity/analytics-challenge-boilerplate
+RoyShnitzel/DashBoard-Feature-Cypress-App	suvelocity/analytics-challenge-boilerplate
+michaelbyalsky/analytics-challenge-michael	suvelocity/analytics-challenge-boilerplate
+Remi-Gau/CPP_BIDS	cpp-lln-lab/CPP_BIDS
+AmirDebbie/Analytics	suvelocity/analytics-challenge-boilerplate
+chenxingxing6/hera	zhengfeiafei/hera
+ITPNYU/p5.ble.js	yining1023/p5.ble.js
