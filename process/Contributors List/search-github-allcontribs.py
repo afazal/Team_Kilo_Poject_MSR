@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
+
+## This script is used to scrap the initial list of repos that use all-contributors with a script that calls the GitHub API, via pygithub
 # In[3]:
 
 get_ipython().system('pip install pipreqs')
